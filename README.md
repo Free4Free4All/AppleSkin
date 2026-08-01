@@ -1,3 +1,19 @@
+# WARNING:
+
+A FORK SIMPLY CHANGES THE LICENSE AND PLACES THE ASSETS UNDER A FREE LICENSE THAT IS LEGALLY AVAILABLE TO EVERYONE AROUND THE WORLD, SINCE I LIVE IN CANADA, SO THE LICENSE: The Unlicense, IS COMPATIBLE IN CANADA, SO I CAN LEGALLY CHANGE IT TO THE MIT-0 LICENSE, WHICH IS COMPATIBLE WORLDWIDE, AND AS FOR THE ASSETS, THEY ARE IN MY REPOSITORIES UNDER THE CC0 1.0 LICENSE
+
+Credit to queek502 for credted the original mod named AppleSkin under license: Unlicense
+
+you can find here: https://github.com/squeek502/AppleSkin
+
+THE ONLY FILE IN MY REPOSITORY LICENSED UNDER CC0 1.0 IS THIS ONE:
+
+https://github.com/Free4Free4All/AppleSkin/blob/1.16-forge/resources/assets/appleskin/textures/icons.png
+
+You can find the CC0 1.0 license for the asset here:
+
+https://github.com/Free4Free4All/AppleSkin/blob/1.16-forge/resources/assets/appleskin/textures/LICENSE-Assets
+
 <img src="https://www.ryanliptak.com/images/appleskin.png" width="32" /> [AppleSkin](https://minecraft.curseforge.com/projects/appleskin)
 ===========
 
