@@ -9,12 +9,12 @@
     "squeek502"
   ],
   "contact": {
-    "sources": "https://github.com/squeek502/AppleSkin",
+    "sources": "https://github.com/Free4Free4All/AppleSkin",
     "homepage": "https://minecraft.curseforge.com/projects/appleskin",
-    "issues": "https://github.com/squeek502/AppleSkin/issues"
+    "issues": "https://github.com/Free4Free4All/AppleSkin/issues"
   },
 
-  "license": "Unlicense",
+  "license": "MIT-0",
   "icon": "assets/appleskin/appleskin.png",
 
   "environment": "*",
