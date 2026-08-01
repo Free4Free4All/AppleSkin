@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-issueTrackerURL="https://github.com/squeek502/AppleSkin"
-license="The Unlicense"
+issueTrackerURL="https://github.com/Free4Free4All/AppleSkin"
+license="MIT-0"
 
 [[mods]]
 modId="appleskin"
 version="${file.jarVersion}"
 displayName="AppleSkin"
 #updateJSONURL=""
-displayURL="https://github.com/squeek502/AppleSkin"
+displayURL="https://github.com/Free4Free4All/AppleSkin"
 logoFile="appleskin.png"
 authors="squeek"
 description="Adds various food-related HUD improvements"
